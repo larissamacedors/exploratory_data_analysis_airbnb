@@ -8,7 +8,7 @@ Linguagem: Python
 
 Criado em 2008, o AirBnb é uma plataforma de aluguel de hospedagens que permite que qualquer pessoa disponibilize ou reserve acomodações ao redor do mundo.
 
-A empresa AirBnb é Open Data e disponibiliza datasets de várias cidades através do site (http://insideairbnb.com/get-the-data.html).
+A empresa AirBnb é Open Data e disponibiliza datasets de várias cidades através do [site](http://insideairbnb.com/get-the-data.html).
 
 Este projeto tem como objetivo analisar e mapear os dados disponibilizados pela empresa AirBnb referentes à cidade de Londres.
 
